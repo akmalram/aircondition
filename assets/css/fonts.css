@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "akrobat";
+  src: url("/assets/fonts/akrobat-bold-webfont.eot?ver1.0");
+  src: url("/assets/fonts/akrobat-bold-webfont.eot?#iefix?ver1.0") format("embedded-opentype"), url("/assets/fonts/akrobat-bold-webfont.woff2?ver1.0") format("woff2"), url("/assets/fonts/akrobat-bold-webfont.woff?ver1.0") format("woff"), url("/assets/fonts/akrobat-bold-webfont.ttf?ver1.0") format("truetype"), url("/assets/fonts/akrobat-bold-webfont.svg#akrobatbold?ver1.0") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "akrobat";
+  src: url("/assets/fonts/akrobat-extrabold-webfont.eot?ver1.0");
+  src: url("/assets/fonts/akrobat-extrabold-webfont.eot?#iefix?ver1.0") format("embedded-opentype"), url("/assets/fonts/akrobat-extrabold-webfont.woff2?ver1.0") format("woff2"), url("/assets/fonts/akrobat-extrabold-webfont.woff?ver1.0") format("woff"), url("/assets/fonts/akrobat-extrabold-webfont.ttf?ver1.0") format("truetype"), url("/assets/fonts/akrobat-extrabold-webfont.svg#akrobatextrabold?ver1.0") format("svg");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "akrobat";
+  src: url("/assets/fonts/akrobat-regular-webfont.eot?ver1.0");
+  src: url("/assets/fonts/akrobat-regular-webfont.eot?#iefix?ver1.0") format("embedded-opentype"), url("/assets/fonts/akrobat-regular-webfont.woff2?ver1.0") format("woff2"), url("/assets/fonts/akrobat-regular-webfont.woff?ver1.0") format("woff"), url("/assets/fonts/akrobat-regular-webfont.ttf?ver1.0") format("truetype"), url("/assets/fonts/akrobat-regular-webfont.svg#akrobatregular?ver1.0") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "akrobat";
+  src: url("/assets/fonts/akrobat-semibold-webfont.eot?ver1.0");
+  src: url("/assets/fonts/akrobat-semibold-webfont.eot?#iefix?ver1.0") format("embedded-opentype"), url("/assets/fonts/akrobat-semibold-webfont.woff2?ver1.0") format("woff2"), url("/assets/fonts/akrobat-semibold-webfont.woff?ver1.0") format("woff"), url("/assets/fonts/akrobat-semibold-webfont.ttf?ver1.0") format("truetype"), url("/assets/fonts/akrobat-semibold-webfont.svg#akrobatsemibold?ver1.0") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Akrobat";
+  src: url("/assets/fonts/Akrobat-Light.eot?ver1.0");
+  src: url("/assets/fonts/Akrobat-Light.eot?#iefix?ver1.0") format("embedded-opentype"), url("/assets/fonts/Akrobat-Light.woff?ver1.0") format("woff"), url("/assets/fonts/Akrobat-Light.ttf?ver1.0") format("truetype"), url("/assets/fonts/Akrobat-Light.svg#Akrobat-Light?ver1.0") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MagistralC";
+  src: url("/assets/fonts/MagistralC.eot");
+  src: url("/assets/fonts/MagistralC.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/MagistralC.woff2") format("woff2"), url("/assets/fonts/MagistralC.woff") format("woff"), url("/assets/fonts/MagistralC.svg#MagistralC") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-0491;
+}
+@font-face {
+  font-family: "MagistralC";
+  src: url("/assets/fonts/MagistralC-Bold.eot");
+  src: url("/assets/fonts/MagistralC-Bold.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/MagistralC-Bold.woff2") format("woff2"), url("/assets/fonts/MagistralC-Bold.woff") format("woff"), url("/assets/fonts/MagistralC-Bold.svg#MagistralC-Bold") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-0491;
+}
